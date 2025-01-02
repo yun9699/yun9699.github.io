@@ -1,7 +1,8 @@
 # Setup
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://yun9699.github.io  # 본인의 GitHub Pages URL
+baseurl: "/yun9699.github.io"   # 저장소 이름, 예: https://yun9699.github.io/yun9699.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -27,7 +28,7 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
+# Optimize Jekyll SEO Tag
 twitter:
   username: vszhub
   card: summary
