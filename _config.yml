@@ -17,7 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-remote_theme: vszhub/not-pure-poole
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Optimize Jekyll
 exclude:
