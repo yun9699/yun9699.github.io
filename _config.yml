@@ -2,7 +2,7 @@
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://yun9699.github.io  # 본인의 GitHub Pages URL
-baseurl: "/yun9699.github.io"   # 저장소 이름, 예: https://yun9699.github.io/yun9699.github.io
+baseurl: ""  # 저장소 이름이 "yun9699.github.io" 이므로 baseurl은 빈 문자열
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
