@@ -90,7 +90,7 @@ pageviews:
 #
 theme_mode: # [light | dark]
 
-# The CDN endpoint for media resources.
+# The CDN endpoint for media resources.bundle exec jekyll serve
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
@@ -98,6 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
+#avatar: "/commons/avatar.jpg"
 avatar: "/commons/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
